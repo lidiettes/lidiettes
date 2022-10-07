@@ -1,8 +1,8 @@
 <h3 align="center">👋 Hi, I’m Lidia!</h3>
 
-- 💡 I'm training as a Full Stack Developer at Assembler Institute of Technology.
+ 💡 I'm training as a Full Stack Developer at Assembler Institute of Technology.
 
-- 👀     I’m interested in danish design, pasta and hygge! 
+ 👀     I’m interested in danish design, pasta and hygge! 
 
 ---
 
