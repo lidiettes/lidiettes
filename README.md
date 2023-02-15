@@ -2,7 +2,8 @@
 
 ---
 
- 💡 I'm training as Full Stack Developer at Assembler Institute of Technology.
+ 💡 I'm Full Stack Developer!
+ 
 
  👀     I’m interested in danish design, pasta and hygge! 
 
