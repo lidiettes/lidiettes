@@ -6,6 +6,9 @@
  
 
  👀     I’m interested in danish design, pasta and hygge! 
+ 
+ 
+ 🌱     I’m currently learning Next.js and Typescript!
 
 ---
 
