@@ -5,7 +5,7 @@
  💡     Hi! I'm fullstack developer with a strong passion for design!! I love React!
  
 
- 👀     I’m interested in danish design, pasta and hygge! 
+ 👀      I’m interested in danish design, pasta and hygge! 
  
  
  🌱     I’m currently learning Next.js and Typescript!
