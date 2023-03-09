@@ -2,7 +2,7 @@
 
 ---
 
- 💡 I'm Full Stack Developer!
+ 💡     Hi! I'm fullstack developer with a strong passion for design!! I love React!
  
 
  👀     I’m interested in danish design, pasta and hygge! 
