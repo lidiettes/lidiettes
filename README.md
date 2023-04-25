@@ -2,7 +2,7 @@
 
 ---
 
- 💡     Hi! I'm fullstack developer with a strong passion for design!! I love React!
+ 💡     Hi! I'm fullstack developer at @seatcode and I have a strong passion for design!!!
  
 
  👀      I’m interested in danish design, pasta and hygge! 
