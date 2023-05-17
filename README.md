@@ -2,10 +2,10 @@
 
 ---
 
- 💡     Hi! I'm fullstack developer at @seatcode and I have a strong passion for design!!!
+ 💡     Hi! I'm fullstack developer at @seatcode!
  
 
- 👀      I’m interested in danish design, pasta and hygge! 
+ 👀      I’m interested in danish design, pasta and hygge!
  
  
  🌱     I’m currently learning Next.js and Typescript!
