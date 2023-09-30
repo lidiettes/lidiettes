@@ -2,10 +2,10 @@
 
 ---
 
- 💡     Hi! I'm backend developer at @seatcode!
+ 💡     Hi! I'm backend developer at @seatcode and I'm working in a gamification project for Audi.
  
 
- 👀      I’m interested in music, danish design, pasta and hygge!
+ 👀      I’m interested in travel, danish design, pasta and hygge.
  
  
 
