@@ -5,10 +5,9 @@
  💡     Hi! I'm fullstack developer at @seatcode!
  
 
- 👀      I’m interested in danish design, pasta and hygge!
+ 👀      I’m interested in music, danish design, pasta and hygge!
  
  
- 🌱     I’m currently learning Nest.js and Typescript!
 
 ---
 
