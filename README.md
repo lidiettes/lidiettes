@@ -2,7 +2,7 @@
 
 ---
 
- 💡     Hi! I'm fullstack developer at @seatcode!
+ 💡     Hi! I'm backend developer at @seatcode!
  
 
  👀      I’m interested in music, danish design, pasta and hygge!
