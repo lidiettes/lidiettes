@@ -12,7 +12,7 @@
 ---
 
 <h3 align="left">Connect with me: </h3>
-<p align="left"> hello@lidiettes.com </p>
+<p align="left"> lidiafriasdorado@gmail.com </p>
 <p> https://www.linkedin.com/in/lidiafrias/ </p>
 
 ---
